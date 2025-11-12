@@ -39,3 +39,6 @@ Below are the cumulative cost comparisons for different daily coffee consumption
 
 ### 3 Coffees per Day
 ![3 coffees per day](images/cost_comparison_3_per_day.png)
+
+### 10 Coffees per Day
+![3 coffees per day](images/cost_comparison_10_per_day.png)
